@@ -1,0 +1,5 @@
+[
+    {"courseId":101, "courseName":"core java","coursePrice":25000,"courseDescrption":"Fullstack  training for 70 days","courseImg":"assets/images/corejava.jpg"},
+    {"courseId":102, "courseName":"Servlets","coursePrice":12000,"courseDescrption":"servlets  training for 28 days","courseImg":"assets/images/spring1.png"},
+    {"courseId":103, "courseName":"Jsp","coursePrice":16500,"courseDescrption":"Jsp training for 9 days","courseImg":"assets/images/springboot.png"}
+]

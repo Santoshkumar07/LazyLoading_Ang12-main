@@ -1,0 +1,6 @@
+[
+
+    {"productId":101, "productName":"Cricketbat","productPrice":3000,"productDes":"the product is  cricketbat  ","productImg":"assets/images/bat.jpg"},
+    {"productId":102, "productName":"Airpods","productPrice":22000,"productDes":"the product is mobile" ,"productImg":"assets/images/ar.jpg"},
+    {"productId":103, "productName":"Apple mobile","productPrice":105500,"productDes":"the product is mobile ","productImg":"assets/images/iphone.jpg"}
+]

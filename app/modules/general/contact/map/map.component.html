@@ -1,0 +1,43 @@
+<p>map works!</p>
+<p>advjava works!</p>
+<h2>Advanced Java Courses Works!</h2><hr>
+<div>
+    <table border="2" style="width: 100%; height: 100%;">
+      
+      <tr>
+          <th class=" text-green">
+              Course Id
+          </th>
+          <th class="text-green">
+              Course Name
+          </th>
+          <th class="text-green">
+              Course Price
+          </th>
+          <th class="text-green">
+              Course Descrption
+          </th>
+          <th class="text-green">
+              Course Img
+          </th>
+      </tr>
+      <tr appMycolor *ngFor="let Course of courses ">
+  
+          <td  class=" text-red">
+              {{Course.courseId}}
+       </td>
+       <td  class=" text-red">
+           {{Course.courseName}}
+    </td>
+    <td  class="text-red">
+       {{Course.coursePrice}}
+  </td>
+  <td   class=" text-red">
+   {{Course.courseDescrption}}
+  </td>
+  <td  class=" text-red">
+   <img [src]="Course.courseImg" height="70px" width="90px">
+  </td>
+   </tr>
+  </table>
+  </div>
